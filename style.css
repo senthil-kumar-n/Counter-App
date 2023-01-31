@@ -1,0 +1,35 @@
+body {
+
+    background: linear-gradient(to right, yellow, green)
+}
+
+.holderDiv {
+
+    background-color: lightgreen;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    padding-top: 40px;
+   
+   
+}
+
+.mdivholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.seatClass {
+
+    color:white;
+    background-color: green;
+}
+
+.activa {
+
+    color:white;
+    background-color: red;
+}
